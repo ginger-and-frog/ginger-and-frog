@@ -1,10 +1,7 @@
-## Hi there 👋
+## Hello <3
+i make silly little web pages to the masses to use. and, i also treat this as a portfolio so there are a few data analytics and finance pased projects here. i mostly work with python, sql, html and css. best way to contact me is my linkedin (www.linkedin.com/in/inikaambalike). also, desperately in need of internship so, please help 🙇🏻‍♀️
 
 <!--
-**ginger-and-frog/ginger-and-frog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
