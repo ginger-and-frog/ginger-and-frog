@@ -1,5 +1,5 @@
 ## Hello <3
-i make silly little web pages to the masses to use. and, i also treat this as a portfolio so there are a few data analytics and finance pased projects here. i mostly work with python, sql, html and css. best way to contact me is my linkedin (www.linkedin.com/in/inikaambalike). also, desperately in need of internship so, please help 🙇🏻‍♀️
+i make silly little web pages to the masses to use. and, i also treat this as a portfolio so there are a few data analytics and finance based projects here. i mostly work with python, sql, html, javascript and css. best way to contact me is my linkedin (www.linkedin.com/in/inikaambalike). also, desperately in need of internship so, please help 🙇🏻‍♀️
 
 <!--
 - 🔭 I’m currently working on ...
